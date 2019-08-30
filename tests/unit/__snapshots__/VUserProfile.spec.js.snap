@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VUserProfile should renders the component 1`] = `
+<div class="user-profile">
+  <el-card-stub bodystyle="[object Object]" style="width: 50vw;"><img src="https://avatars2.githubusercontent.com/u/33878228?v=4" alt="" class="user-profile__avatar">
+    <div style="padding: 25px;"><span class="user-profile__name">João Aquino</span>
+      <p class="user-profile__location">Curitiba, PR, Brazil</p>
+    </div>
+    <div class="user-profile__bio" style="padding: 2rem;">
+      Ninja Developer
+    </div>
+  </el-card-stub>
+</div>
+`;
